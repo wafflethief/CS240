@@ -1,0 +1,12 @@
+#ifndef Pl_H
+#define Pl_H
+
+class Planet{
+private:
+	char type;
+public:
+	Planet(int);
+	unsigned long getID();
+	unsigned int getDistance();
+	char getType();
+};
