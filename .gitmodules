@@ -1,0 +1,6 @@
+[submodule "lab-1-spr18-wafflethief"]
+	path = lab-1-spr18-wafflethief
+	url = https://github.com/lab-1-spr18-wafflethief/
+[submodule "lab-2-spr18-wafflethief"]
+	path = lab-2-spr18-wafflethief
+	url = https://github.com/lab-2-spr18-wafflethief/
